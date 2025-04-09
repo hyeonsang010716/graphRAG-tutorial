@@ -4,3 +4,4 @@ graph_rag_example_helpers
 langchain_chroma
 langchain-openai
 langchain-community
+matplotlib
